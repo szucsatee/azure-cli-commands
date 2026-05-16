@@ -151,4 +151,3 @@ Commands:
 
 To search AI knowledge base for examples, use: az find "az "
 
-You have 2 update(s) available. They will be updated with the next build of Cloud Shell.
