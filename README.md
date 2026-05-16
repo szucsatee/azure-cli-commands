@@ -19,11 +19,16 @@ Group
 
 Subgroups:
     account                 : Manage Azure subscription information.
+    
     acr                     : Manage private registries with Azure Container Registries.
+    
     ad                      : Manage Microsoft Entra ID (formerly known as Azure Active Directory,
+    
                               Azure AD, AAD) entities needed for Azure role-based access control
                               (Azure RBAC) through Microsoft Graph API.
+                              
     advisor                 : Manage Azure Advisor.
+    
     afd                     : Manage Azure Front Door Standard/Premium.
     aks                     : Azure Kubernetes Service.
     ams                     : Manage Azure Media Services resources.
